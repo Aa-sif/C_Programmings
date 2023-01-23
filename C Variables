@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+
+  int studentID = 5919;
+  int studentAge = 20;
+  float studentcgpa = 3.77;
+  char studentGrade = 'A';
+
+  printf("Student id: %d\n", studentID);  //output student id:5919
+  printf("Student age: %d\n", studentAge); //output Student age: 20
+  printf("Student cgpa: %f\n", studentcgpa); //output Student cgpa: 3.77
+  printf("Student grade: %c", studentGrade); //output Student grade: A
+
+  return 0;
+}
