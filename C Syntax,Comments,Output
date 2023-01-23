@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+  printf("Iam Asif ");  //output Iam Asif
+  printf("ID-221-15-5919");  //output ID-221-15-5919
+  return 0;
+}
